@@ -5,6 +5,7 @@ def menu():
     print("\t1. Ver productos")
     print("\t2. Agregar productos")
     print("\t3. Modificar inventario")
+    print("\t4. Registrar venta")
     print("\t4. Dar de baja productos")
     print("\t5. Salir")
     try:
