@@ -66,6 +66,12 @@ def modificar_inventario():
     if not encontrado:
         print("Artículo no encontrado.\n")
 
+def dar_de_baja():
+    producto = int(input("Escriba el número del producto que se agotó del inventario"))
+    
+    
+
+
 # Bucle principal
 while True:
     opcion = menu()
